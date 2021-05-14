@@ -7,6 +7,7 @@ package refactoring_guru.comportamentais.chain_of_responsibility.example2.proces
 public class TestChain {
 
     public static void main(String[] args) {
+        
         Chain chain = new Chain();
 
         //Calling chain of responsibility 
