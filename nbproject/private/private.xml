@@ -2,14 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/Guilherme%20Gomes/Documents/NetBeansProjects/refactoring_guru/src/refactoring_guru/comportamentais/chain_of_responsibility/example2/processador/Chain.java</file>
-            <file>file:/C:/Users/Guilherme%20Gomes/Documents/NetBeansProjects/refactoring_guru/src/refactoring_guru/comportamentais/chain_of_responsibility/example2/processador/Processor.java</file>
-            <file>file:/C:/Users/Guilherme%20Gomes/Documents/NetBeansProjects/refactoring_guru/src/refactoring_guru/comportamentais/chain_of_responsibility/example2/processador/ZeroProcessor.java</file>
-            <file>file:/C:/Users/Guilherme%20Gomes/Documents/NetBeansProjects/refactoring_guru/src/refactoring_guru/comportamentais/chain_of_responsibility/example2/processador/Number.java</file>
-            <file>file:/C:/Users/Guilherme%20Gomes/Documents/NetBeansProjects/refactoring_guru/src/refactoring_guru/comportamentais/chain_of_responsibility/example2/processador/NegativeProcessor.java</file>
-            <file>file:/C:/Users/Guilherme%20Gomes/Documents/NetBeansProjects/refactoring_guru/src/refactoring_guru/comportamentais/chain_of_responsibility/example2/processador/PositiveProcessor.java</file>
-            <file>file:/C:/Users/Guilherme%20Gomes/Documents/NetBeansProjects/refactoring_guru/src/refactoring_guru/comportamentais/chain_of_responsibility/example2/processador/TestChain.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
